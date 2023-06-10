@@ -5,12 +5,17 @@ Welcome to the Homyz Landing Page for Selling Villas. This landing page serves a
 ## Features
 
 - **Responsive Design**: Our landing page is designed to be fully responsive, providing an optimal viewing experience across a wide range of devices and screen sizes. Whether users access the page from a desktop computer, laptop, tablet, or smartphone, the layout and content will adapt seamlessly, ensuring a visually pleasing and user-friendly experience.
+- To see how my website responds to different devices, you can visit the following URL:
+- https://ui.dev/amiresponsive?url=https://muhammad-1956.github.io/Homyz/homyz.html
 - 
 - **Contact Form**: To facilitate communication between potential buyers and our team, a contact form is prominently displayed on the landing page. Users can easily fill out the form with their contact details and any specific inquiries they may have. Our team will promptly respond to provide personalized assistance.
 
 ## Getting Started
 
 To get started with Homyz, simply visit our landing page at [https://muhammad-1956.github.io/Homyz/homyz.html]. From there, you can explore our featured villas, utilize the search functionality to find villas that meet your preferences, and reach out to our team for further assistance. Whether you are a buyer or a seller, Homyz is committed to providing a seamless and exceptional experience throughout the villa buying process.
+
+## About the Tool
+The ["Am I Responsive?](https://ui.dev/amiresponsive)" tool is designed to help developers, designers, and stakeholders assess how a website appears and behaves across different devices and screen sizes. It offers a convenient and intuitive way to preview your website's responsiveness without the need for physical devices or complex setup.
 
 ## Feedback and Support
 
